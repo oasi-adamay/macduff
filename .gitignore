@@ -7,3 +7,10 @@ metacow
 *.jpg
 *.csv
 *.dSYM/**
+Debug/
+Release/
+x64/
+packages/
+*.opendb
+*.db
+*.user
